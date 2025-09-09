@@ -90,30 +90,45 @@ This project was developed to address the critical need for community support sy
 
 ## Screenshots
 
-### Dashboard Overview
+### Dashboard
 
 ![Dashboard](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/8e0a0603662d26236baa33e59a614d92f72ff263/dashboard.jpg)
-*Main dashboard showing quick access to all features and system statistics*
+
 
 ### User Registration
-![Registration](screenshots/registration.png)
-*Multi-role registration form supporting different user types*
+![Registration](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/register.jpg)
+### Login
+![login](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/login.jpg)
+
+### Feedback
+![Feedback](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/feedback.jpg)
+
+### Notification
+![Notification](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/notifications.jpg)
 
 ### Emergency Alerts
-![Emergency Alerts](screenshots/emergency-alerts.png)
-*Emergency alert management interface with location tracking*
+![Emergency Alerts](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/emergency_alert.jpg)
+
 
 ### Multi-Language Support
-![Language Selection](screenshots/language-selection.png)
-*Language switching dropdown with multiple language options*
+![Language Selection](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/language.jpg)
 
 ### Volunteer Management
-![Volunteer Management](screenshots/volunteer-management.png)
-*Volunteer profile management and skills tracking*
+![Volunteer Management](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/volunteer_management.jpg)
+
 
 ### Schedule Requests
-![Schedule Requests](screenshots/schedule-requests.png)
-*Assistance request submission and approval workflow*
+![Schedule Requests](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/schedule_request.jpg)
+
+### Volunteer Schedule
+![Volunteer Schedule](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/volunteer_schedule.jpg)
+
+### Donation
+![Donation](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/donation.jpg)
+
+### Location
+![Location](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/ab852037d8ab2994862d636b608197a3acef5f2c/location.jpg)
+
 
 ## 📁 Project Structure
 
@@ -275,6 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: This project was developed as part of a university assignment focusing on community service applications for senior citizens. The platform demonstrates modern web development practices while addressing real-world social needs.
+
 
 
 
