@@ -92,7 +92,7 @@ This project was developed to address the critical need for community support sy
 
 ### Dashboard Overview
 
-(Downloads/dashboard.jpg)
+![Dashboard](https://github.com/farhanahmed2-byte/Senior_citizen_Assistantship_CSE370/blob/8e0a0603662d26236baa33e59a614d92f72ff263/dashboard.jpg)
 *Main dashboard showing quick access to all features and system statistics*
 
 ### User Registration
@@ -275,5 +275,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: This project was developed as part of a university assignment focusing on community service applications for senior citizens. The platform demonstrates modern web development practices while addressing real-world social needs.
+
 
 
