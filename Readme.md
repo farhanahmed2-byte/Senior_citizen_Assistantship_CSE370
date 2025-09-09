@@ -2,7 +2,7 @@
 
 A comprehensive web application designed to connect senior citizens with volunteers for assistance and support services. This platform facilitates volunteer management, emergency alerts, scheduling, feedback collection, and multi-language support.
 
-## 🎯 Project Overview
+## Project Overview
 
 The Senior Citizen Assistance Platform is a PHP/MySQL-based web application that serves as a bridge between senior citizens in need of assistance and volunteers willing to help. The platform addresses the growing need for community support for elderly individuals by providing a centralized system for managing assistance requests, emergency alerts, and volunteer coordination.
 
@@ -55,7 +55,7 @@ This project was developed to address the critical need for community support sy
    - Real-time notification display
    - Notification history tracking
 
-7. **Multi-Language Support (i18n)**
+7. **Multi-Language Support**
    - English and Spanish language support
    - Additional language files for Bengali, Hindi, and Japanese
    - Dynamic language switching
@@ -77,91 +77,22 @@ This project was developed to address the critical need for community support sy
     - Location-based service matching
     - Geographic data management
 
-### Technical Features
 
-- **Security**: CSRF protection, password hashing, input sanitization
-- **Database**: MySQL with PDO for secure database operations
-- **Frontend**: Bootstrap 5 for responsive design
-- **Backend**: PHP 8.0+ with object-oriented programming
-- **Architecture**: MVC-like structure with separation of concerns
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 - **Backend**: PHP 8.0+
 - **Database**: MySQL 5.7+/MariaDB
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap 5
 - **Server**: Apache (XAMPP/WAMP)
-- **Architecture**: MVC Pattern
-- **Security**: CSRF Protection, Password Hashing, Input Sanitization
 
-## 📋 Prerequisites
 
-- **Windows**: XAMPP or WAMP
-- **PHP**: 8.0 or higher
-- **MySQL**: 5.7+ or MariaDB
-- **Web Browser**: Chrome, Firefox, Safari, or Edge
 
-## 🚀 Installation & Setup
-
-### Step 1: Environment Setup
-
-1. **Install XAMPP/WAMP**
-   - Download and install XAMPP from [https://www.apachefriends.org/](https://www.apachefriends.org/)
-   - Or install WAMP from [https://www.wampserver.com/](https://www.wampserver.com/)
-
-2. **Start Services**
-   - Open XAMPP Control Panel
-   - Start Apache and MySQL services
-   - Ensure ports 80 (Apache) and 3306 (MySQL) are available
-
-### Step 2: Database Setup
-
-1. **Create Database**
-   - Open `http://localhost/phpmyadmin`
-   - Create a new database named `senior_citizen_assistantship`
-   - Set collation to `utf8mb4_unicode_ci`
-
-2. **Import Schema**
-   - Navigate to the created database
-   - Go to "Import" tab
-   - Upload and import the `schema.sql` file from the project root
-
-### Step 3: Project Installation
-
-1. **Clone/Download Project**
-   ```bash
-   git clone [your-github-repo-url]
-   # or download and extract the ZIP file
-   ```
-
-2. **Place in Web Directory**
-   - Copy the project folder to `C:\xampp\htdocs\senior_assistance`
-   - Ensure the folder structure is maintained
-
-3. **Configure Database Connection**
-   - Open `config/db.php`
-   - Update database credentials if needed:
-   ```php
-   $DB_server = 'localhost';
-   $DB_NAME = 'senior_citizen_assistantship';
-   $DB_USER = 'root';
-   $DB_PASS = ''; // Your MySQL password
-   ```
-
-### Step 4: Access the Application
-
-1. **Open Web Browser**
-   - Navigate to `http://localhost/senior_assistance/`
-
-2. **Initial Login**
-   - First-time users can register with any email/password
-   - The first registered user automatically becomes an admin
-   - Or use: Email: `admin@example.com`, Password: `admin123` (if available)
-
-## 📱 Screenshots
+## Screenshots
 
 ### Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+
+(Downloads/dashboard.jpg)
 *Main dashboard showing quick access to all features and system statistics*
 
 ### User Registration
@@ -344,4 +275,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Note**: This project was developed as part of a university assignment focusing on community service applications for senior citizens. The platform demonstrates modern web development practices while addressing real-world social needs.
+
 
